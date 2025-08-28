@@ -72,7 +72,7 @@
 ```yml
 services:
   moontv-core:
-    image: ghcr.io/moontechlab/lunatv:latest
+    image: ghcr.io/chengege666/lunatv:latest
     container_name: moontv-core
     restart: on-failure
     ports:
