@@ -1,4 +1,4 @@
-自用本地部署。
+自用本地部署。  docker-compose up -d
 
 
 本项目**仅支持 Docker 或其他基于 Docker 的平台** 部署。
